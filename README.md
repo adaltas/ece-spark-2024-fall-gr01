@@ -10,8 +10,6 @@ Apache Spark is a powerful open-source framework designed for fast and  versatil
 * Discover all the functionalities of Apache Spark and why it is everywhere.
 * Understand the internals of Spark.
 * Learn to use Spark for batch and streaming data analytics.
-* Learn how to package a Spark application for production.
-* Learn Machine Learning with MLlib.
 
 ## Prerequisites
 
