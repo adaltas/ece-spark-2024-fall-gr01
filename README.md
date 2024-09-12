@@ -19,7 +19,7 @@ Python programming knowledge, Linux/Unix shell basic knowledge.
 
 ## Modules
 
-### Module 1 (3h) - Introduction to Spark & RDDs
+### Module 1  - Introduction to Spark & RDDs
 
 - Presentation
 - Spark in Hadoop ecosystem
@@ -30,7 +30,7 @@ Python programming knowledge, Linux/Unix shell basic knowledge.
 - Operations
 - Resilient Distributed Datasets (RDDs)
 
-### Module 2 (3h) - Spark SQL and DataFrames
+### Module 2  - Spark SQL and DataFrames
 
 - RDDs: Pros and Cons
 - DataFrames
@@ -38,7 +38,7 @@ Python programming knowledge, Linux/Unix shell basic knowledge.
 - Working with DataFrames
 - Why SQL?
 
-### Module 3 (3h) - Spark Structured Streaming
+### Module 3  - Spark Structured Streaming
 
 - Streaming introduction
 - Difference between batch and stream processing
@@ -49,27 +49,6 @@ Python programming knowledge, Linux/Unix shell basic knowledge.
 - Windows: tumbling, overlapping
 - Handling late data and how long to wait
 - Vocabulary
-
-### Module 4 (3h) - Application packaging and submitting
-
-- Spark functionalities recap
-- Spark application components
-- Spark application configuration
-- Spark application monitoring
-- Spark application performance tuning
-
-### Module 5 (3h) - Machine Learning with Spark MLlib
-
-- Spark Ecosystem
-- Machine Learning With Spark: packages
-- Machine Learning
-- MLlib: Functionalities
-- When do we choose ML with Spark?
-- Spark Data Structures and connection to Python
-- Types of Parallelism
-- ML Terminology (Spark, sklearn…)
-- Steps of a Machine Learning project
-- Linear Regression and Random Forest regression
 
 ## Resource
 
