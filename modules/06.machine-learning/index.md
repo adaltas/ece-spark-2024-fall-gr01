@@ -6,7 +6,7 @@ Duration: 3 hours
 
 ## Spark Ecosystem
 
-**ADD IMAGE**
+![Spark Ecosystem](../02.introduction-and-rdds/image/spark_ecosystem.png)
 
 ## Machine Learning With Spark: packages
 
